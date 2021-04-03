@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "yarn --version"
+    "start": "anywhere -p 9000 -s -d ./"
   },
   "dependencies": {
     "anywhere": "^1.5.0"
